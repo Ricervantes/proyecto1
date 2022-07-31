@@ -28,12 +28,13 @@
     text-decoration: none;
     font-weight: bold;
     font-size: 20px;
-    max-width: 100%height: autodisplay:block;
+    max-width: 100%;
+    height: display block;
 }
 .jumbotron {
     background-color: aqua;
     padding: 0px;
-    margin: 0;
+    margin: 20;
     font-size: 10;
     align-items: stretch;
 }
@@ -41,7 +42,7 @@
     display: flex;
     flex-direction: column;
    
-  align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;
+  align-items: stretch;
 }
 .container-jumbotron    {
     display:flex;
@@ -51,7 +52,8 @@
     align-content: center;
     display:flex;
     justify-content: end;
-    max-width: 100%height: autodisplay:block;
+    max-width: 100%;
+    height: display block;
 }
 .lead   {
     font-size: 30px;
@@ -67,7 +69,7 @@
 
 .encabezado {
     display: flex;
-    align-items: stretch |flex-start| flex-end;
+    align-items: center;
     flex-wrap: wrap;
     text-align: justify;
     font-size:20px;
@@ -106,6 +108,7 @@
 }
 .blog   {
     background:#8B008B;
+    align-items: stretch;
 }
 
 .img-promocion1  {
