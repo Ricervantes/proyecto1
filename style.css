@@ -97,7 +97,7 @@
     margin-top: 2.5rem;
 }
 .mt-10.sm\:mt-12{
-    
+    margin-top: 2.5rem;
 }
 
 
@@ -115,7 +115,8 @@
 .img-promocion1  {
     width: 100%;
     height: auto;
-    max-width: 100%height: autodisplay:block;
+    max-width: 100%;
+    height: display block;
   }
 
 .container-adicionales{
